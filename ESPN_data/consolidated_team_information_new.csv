@@ -1,0 +1,225 @@
+team_id,name,abbreviation,location,logo_url,sport,league
+1,Orioles,BAL,Baltimore,https://a.espncdn.com/i/teamlogos/mlb/500/bal.png,Baseball,MLB
+2,Red Sox,BOS,Boston,https://a.espncdn.com/i/teamlogos/mlb/500/bos.png,Baseball,MLB
+3,Angels,LAA,Los Angeles,https://a.espncdn.com/i/teamlogos/mlb/500/laa.png,Baseball,MLB
+4,White Sox,CHW,Chicago,https://a.espncdn.com/i/teamlogos/mlb/500/chw.png,Baseball,MLB
+5,Guardians,CLE,Cleveland,https://a.espncdn.com/i/teamlogos/mlb/500/cle.png,Baseball,MLB
+6,Tigers,DET,Detroit,https://a.espncdn.com/i/teamlogos/mlb/500/det.png,Baseball,MLB
+7,Royals,KC,Kansas City,https://a.espncdn.com/i/teamlogos/mlb/500/kc.png,Baseball,MLB
+8,Brewers,MIL,Milwaukee,https://a.espncdn.com/i/teamlogos/mlb/500/mil.png,Baseball,MLB
+9,Twins,MIN,Minnesota,https://a.espncdn.com/i/teamlogos/mlb/500/min.png,Baseball,MLB
+10,Yankees,NYY,New York,https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png,Baseball,MLB
+11,Athletics,OAK,Oakland,https://a.espncdn.com/i/teamlogos/mlb/500/oak.png,Baseball,MLB
+12,Mariners,SEA,Seattle,https://a.espncdn.com/i/teamlogos/mlb/500/sea.png,Baseball,MLB
+13,Rangers,TEX,Texas,https://a.espncdn.com/i/teamlogos/mlb/500/tex.png,Baseball,MLB
+14,Blue Jays,TOR,Toronto,https://a.espncdn.com/i/teamlogos/mlb/500/tor.png,Baseball,MLB
+15,Braves,ATL,Atlanta,https://a.espncdn.com/i/teamlogos/mlb/500/atl.png,Baseball,MLB
+16,Cubs,CHC,Chicago,https://a.espncdn.com/i/teamlogos/mlb/500/chc.png,Baseball,MLB
+17,Reds,CIN,Cincinnati,https://a.espncdn.com/i/teamlogos/mlb/500/cin.png,Baseball,MLB
+18,Astros,HOU,Houston,https://a.espncdn.com/i/teamlogos/mlb/500/hou.png,Baseball,MLB
+19,Dodgers,LAD,Los Angeles,https://a.espncdn.com/i/teamlogos/mlb/500/lad.png,Baseball,MLB
+20,Nationals,WSH,Washington,https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png,Baseball,MLB
+21,Mets,NYM,New York,https://a.espncdn.com/i/teamlogos/mlb/500/nym.png,Baseball,MLB
+22,Phillies,PHI,Philadelphia,https://a.espncdn.com/i/teamlogos/mlb/500/phi.png,Baseball,MLB
+23,Pirates,PIT,Pittsburgh,https://a.espncdn.com/i/teamlogos/mlb/500/pit.png,Baseball,MLB
+24,Cardinals,STL,St. Louis,https://a.espncdn.com/i/teamlogos/mlb/500/stl.png,Baseball,MLB
+25,Padres,SD,San Diego,https://a.espncdn.com/i/teamlogos/mlb/500/sd.png,Baseball,MLB
+26,Giants,SF,San Francisco,https://a.espncdn.com/i/teamlogos/mlb/500/sf.png,Baseball,MLB
+27,Rockies,COL,Colorado,https://a.espncdn.com/i/teamlogos/mlb/500/col.png,Baseball,MLB
+28,Marlins,MIA,Miami,https://a.espncdn.com/i/teamlogos/mlb/500/mia.png,Baseball,MLB
+29,Diamondbacks,ARI,Arizona,https://a.espncdn.com/i/teamlogos/mlb/500/ari.png,Baseball,MLB
+30,Rays,TB,Tampa Bay,https://a.espncdn.com/i/teamlogos/mlb/500/tb.png,Baseball,MLB
+1,Hawks,ATL,Atlanta,https://a.espncdn.com/i/teamlogos/nba/500/atl.png,Basketball,NBA
+2,Celtics,BOS,Boston,https://a.espncdn.com/i/teamlogos/nba/500/bos.png,Basketball,NBA
+3,Pelicans,NO,New Orleans,https://a.espncdn.com/i/teamlogos/nba/500/no.png,Basketball,NBA
+4,Bulls,CHI,Chicago,https://a.espncdn.com/i/teamlogos/nba/500/chi.png,Basketball,NBA
+5,Cavaliers,CLE,Cleveland,https://a.espncdn.com/i/teamlogos/nba/500/cle.png,Basketball,NBA
+6,Mavericks,DAL,Dallas,https://a.espncdn.com/i/teamlogos/nba/500/dal.png,Basketball,NBA
+7,Nuggets,DEN,Denver,https://a.espncdn.com/i/teamlogos/nba/500/den.png,Basketball,NBA
+8,Pistons,DET,Detroit,https://a.espncdn.com/i/teamlogos/nba/500/det.png,Basketball,NBA
+9,Warriors,GS,Golden State,https://a.espncdn.com/i/teamlogos/nba/500/gs.png,Basketball,NBA
+10,Rockets,HOU,Houston,https://a.espncdn.com/i/teamlogos/nba/500/hou.png,Basketball,NBA
+11,Pacers,IND,Indiana,https://a.espncdn.com/i/teamlogos/nba/500/ind.png,Basketball,NBA
+12,Clippers,LAC,LA,https://a.espncdn.com/i/teamlogos/nba/500/lac.png,Basketball,NBA
+13,Lakers,LAL,Los Angeles,https://a.espncdn.com/i/teamlogos/nba/500/lal.png,Basketball,NBA
+14,Heat,MIA,Miami,https://a.espncdn.com/i/teamlogos/nba/500/mia.png,Basketball,NBA
+15,Bucks,MIL,Milwaukee,https://a.espncdn.com/i/teamlogos/nba/500/mil.png,Basketball,NBA
+16,Timberwolves,MIN,Minnesota,https://a.espncdn.com/i/teamlogos/nba/500/min.png,Basketball,NBA
+17,Nets,BKN,Brooklyn,https://a.espncdn.com/i/teamlogos/nba/500/bkn.png,Basketball,NBA
+18,Knicks,NY,New York,https://a.espncdn.com/i/teamlogos/nba/500/ny.png,Basketball,NBA
+19,Magic,ORL,Orlando,https://a.espncdn.com/i/teamlogos/nba/500/orl.png,Basketball,NBA
+20,76ers,PHI,Philadelphia,https://a.espncdn.com/i/teamlogos/nba/500/phi.png,Basketball,NBA
+21,Suns,PHX,Phoenix,https://a.espncdn.com/i/teamlogos/nba/500/phx.png,Basketball,NBA
+22,Trail Blazers,POR,Portland,https://a.espncdn.com/i/teamlogos/nba/500/por.png,Basketball,NBA
+23,Kings,SAC,Sacramento,https://a.espncdn.com/i/teamlogos/nba/500/sac.png,Basketball,NBA
+24,Spurs,SA,San Antonio,https://a.espncdn.com/i/teamlogos/nba/500/sa.png,Basketball,NBA
+25,Thunder,OKC,Oklahoma City,https://a.espncdn.com/i/teamlogos/nba/500/okc.png,Basketball,NBA
+26,Jazz,UTAH,Utah,https://a.espncdn.com/i/teamlogos/nba/500/utah.png,Basketball,NBA
+27,Wizards,WSH,Washington,https://a.espncdn.com/i/teamlogos/nba/500/wsh.png,Basketball,NBA
+28,Raptors,TOR,Toronto,https://a.espncdn.com/i/teamlogos/nba/500/tor.png,Basketball,NBA
+29,Grizzlies,MEM,Memphis,https://a.espncdn.com/i/teamlogos/nba/500/mem.png,Basketball,NBA
+30,Hornets,CHA,Charlotte,https://a.espncdn.com/i/teamlogos/nba/500/cha.png,Basketball,NBA
+1,Falcons,ATL,Atlanta,https://a.espncdn.com/i/teamlogos/nfl/500/atl.png,Football,NFL
+2,Bills,BUF,Buffalo,https://a.espncdn.com/i/teamlogos/nfl/500/buf.png,Football,NFL
+3,Bears,CHI,Chicago,https://a.espncdn.com/i/teamlogos/nfl/500/chi.png,Football,NFL
+4,Bengals,CIN,Cincinnati,https://a.espncdn.com/i/teamlogos/nfl/500/cin.png,Football,NFL
+5,Browns,CLE,Cleveland,https://a.espncdn.com/i/teamlogos/nfl/500/cle.png,Football,NFL
+6,Cowboys,DAL,Dallas,https://a.espncdn.com/i/teamlogos/nfl/500/dal.png,Football,NFL
+7,Broncos,DEN,Denver,https://a.espncdn.com/i/teamlogos/nfl/500/den.png,Football,NFL
+8,Lions,DET,Detroit,https://a.espncdn.com/i/teamlogos/nfl/500/det.png,Football,NFL
+9,Packers,GB,Green Bay,https://a.espncdn.com/i/teamlogos/nfl/500/gb.png,Football,NFL
+10,Titans,TEN,Tennessee,https://a.espncdn.com/i/teamlogos/nfl/500/ten.png,Football,NFL
+11,Colts,IND,Indianapolis,https://a.espncdn.com/i/teamlogos/nfl/500/ind.png,Football,NFL
+12,Chiefs,KC,Kansas City,https://a.espncdn.com/i/teamlogos/nfl/500/kc.png,Football,NFL
+13,Raiders,LV,Las Vegas,https://a.espncdn.com/i/teamlogos/nfl/500/lv.png,Football,NFL
+14,Rams,LAR,Los Angeles,https://a.espncdn.com/i/teamlogos/nfl/500/lar.png,Football,NFL
+15,Dolphins,MIA,Miami,https://a.espncdn.com/i/teamlogos/nfl/500/mia.png,Football,NFL
+16,Vikings,MIN,Minnesota,https://a.espncdn.com/i/teamlogos/nfl/500/min.png,Football,NFL
+17,Patriots,NE,New England,https://a.espncdn.com/i/teamlogos/nfl/500/ne.png,Football,NFL
+18,Saints,NO,New Orleans,https://a.espncdn.com/i/teamlogos/nfl/500/no.png,Football,NFL
+19,Giants,NYG,New York,https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png,Football,NFL
+20,Jets,NYJ,New York,https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png,Football,NFL
+21,Eagles,PHI,Philadelphia,https://a.espncdn.com/i/teamlogos/nfl/500/phi.png,Football,NFL
+22,Cardinals,ARI,Arizona,https://a.espncdn.com/i/teamlogos/nfl/500/ari.png,Football,NFL
+23,Steelers,PIT,Pittsburgh,https://a.espncdn.com/i/teamlogos/nfl/500/pit.png,Football,NFL
+24,Chargers,LAC,Los Angeles,https://a.espncdn.com/i/teamlogos/nfl/500/lac.png,Football,NFL
+25,49ers,SF,San Francisco,https://a.espncdn.com/i/teamlogos/nfl/500/sf.png,Football,NFL
+26,Seahawks,SEA,Seattle,https://a.espncdn.com/i/teamlogos/nfl/500/sea.png,Football,NFL
+27,Buccaneers,TB,Tampa Bay,https://a.espncdn.com/i/teamlogos/nfl/500/tb.png,Football,NFL
+28,Commanders,WSH,Washington,https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png,Football,NFL
+29,Panthers,CAR,Carolina,https://a.espncdn.com/i/teamlogos/nfl/500/car.png,Football,NFL
+30,Jaguars,JAX,Jacksonville,https://a.espncdn.com/i/teamlogos/nfl/500/jax.png,Football,NFL
+33,Ravens,BAL,Baltimore,https://a.espncdn.com/i/teamlogos/nfl/500/bal.png,Football,NFL
+34,Texans,HOU,Houston,https://a.espncdn.com/i/teamlogos/nfl/500/hou.png,Football,NFL
+1,Bruins,BOS,Boston,https://a.espncdn.com/i/teamlogos/nhl/500/bos.png,Hockey,NHL
+2,Sabres,BUF,Buffalo,https://a.espncdn.com/i/teamlogos/nhl/500/buf.png,Hockey,NHL
+3,Flames,CGY,Calgary,https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png,Hockey,NHL
+4,Blackhawks,CHI,Chicago,https://a.espncdn.com/i/teamlogos/nhl/500/chi.png,Hockey,NHL
+5,Red Wings,DET,Detroit,https://a.espncdn.com/i/teamlogos/nhl/500/det.png,Hockey,NHL
+6,Oilers,EDM,Edmonton,https://a.espncdn.com/i/teamlogos/nhl/500/edm.png,Hockey,NHL
+7,Hurricanes,CAR,Carolina,https://a.espncdn.com/i/teamlogos/nhl/500/car.png,Hockey,NHL
+8,Kings,LA,Los Angeles,https://a.espncdn.com/i/teamlogos/nhl/500/la.png,Hockey,NHL
+9,Stars,DAL,Dallas,https://a.espncdn.com/i/teamlogos/nhl/500/dal.png,Hockey,NHL
+10,Canadiens,MTL,Montreal,https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png,Hockey,NHL
+11,Devils,NJ,New Jersey,https://a.espncdn.com/i/teamlogos/nhl/500/nj.png,Hockey,NHL
+12,Islanders,NYI,New York,https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png,Hockey,NHL
+13,Rangers,NYR,New York,https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png,Hockey,NHL
+14,Senators,OTT,Ottawa,https://a.espncdn.com/i/teamlogos/nhl/500/ott.png,Hockey,NHL
+15,Flyers,PHI,Philadelphia,https://a.espncdn.com/i/teamlogos/nhl/500/phi.png,Hockey,NHL
+16,Penguins,PIT,Pittsburgh,https://a.espncdn.com/i/teamlogos/nhl/500/pit.png,Hockey,NHL
+17,Avalanche,COL,Colorado,https://a.espncdn.com/i/teamlogos/nhl/500/col.png,Hockey,NHL
+18,Sharks,SJ,San Jose,https://a.espncdn.com/i/teamlogos/nhl/500/sj.png,Hockey,NHL
+19,Blues,STL,St. Louis,https://a.espncdn.com/i/teamlogos/nhl/500/stl.png,Hockey,NHL
+20,Lightning,TB,Tampa Bay,https://a.espncdn.com/i/teamlogos/nhl/500/tb.png,Hockey,NHL
+21,Maple Leafs,TOR,Toronto,https://a.espncdn.com/i/teamlogos/nhl/500/tor.png,Hockey,NHL
+22,Canucks,VAN,Vancouver,https://a.espncdn.com/i/teamlogos/nhl/500/van.png,Hockey,NHL
+23,Capitals,WSH,Washington,https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png,Hockey,NHL
+25,Ducks,ANA,Anaheim,https://a.espncdn.com/i/teamlogos/nhl/500/ana.png,Hockey,NHL
+26,Panthers,FLA,Florida,https://a.espncdn.com/i/teamlogos/nhl/500/fla.png,Hockey,NHL
+27,Predators,NSH,Nashville,https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png,Hockey,NHL
+28,Jets,WPG,Winnipeg,https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png,Hockey,NHL
+29,Blue Jackets,CBJ,Columbus,https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png,Hockey,NHL
+30,Wild,MIN,Minnesota,https://a.espncdn.com/i/teamlogos/nhl/500/min.png,Hockey,NHL
+37,Golden Knights,VGK,Vegas,https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png,Hockey,NHL
+124292,Kraken,SEA,Seattle,https://a.espncdn.com/i/teamlogos/nhl/500/sea.png,Hockey,NHL
+129764,Hockey Club,UTAH,Utah,https://a.espncdn.com/i/teamlogos/nhl/500/utah.png,Hockey,NHL
+331,Brighton & Hove Albion,BHA,Brighton & Hove Albion,https://a.espncdn.com/i/teamlogos/soccer/500/331.png,Soccer,EPL
+337,Brentford,BRE,Brentford,https://a.espncdn.com/i/teamlogos/soccer/500/337.png,Soccer,EPL
+349,AFC Bournemouth,BOU,AFC Bournemouth,https://a.espncdn.com/i/teamlogos/soccer/500/349.png,Soccer,EPL
+359,Arsenal,ARS,Arsenal,https://a.espncdn.com/i/teamlogos/soccer/500/359.png,Soccer,EPL
+360,Manchester United,MAN,Manchester United,https://a.espncdn.com/i/teamlogos/soccer/500/360.png,Soccer,EPL
+361,Newcastle United,NEW,Newcastle United,https://a.espncdn.com/i/teamlogos/soccer/500/361.png,Soccer,EPL
+362,Aston Villa,AVL,Aston Villa,https://a.espncdn.com/i/teamlogos/soccer/500/362.png,Soccer,EPL
+363,Chelsea,CHE,Chelsea,https://a.espncdn.com/i/teamlogos/soccer/500/363.png,Soccer,EPL
+364,Liverpool,LIV,Liverpool,https://a.espncdn.com/i/teamlogos/soccer/500/364.png,Soccer,EPL
+367,Tottenham Hotspur,TOT,Tottenham Hotspur,https://a.espncdn.com/i/teamlogos/soccer/500/367.png,Soccer,EPL
+368,Everton,EVE,Everton,https://a.espncdn.com/i/teamlogos/soccer/500/368.png,Soccer,EPL
+370,Fulham,FUL,Fulham,https://a.espncdn.com/i/teamlogos/soccer/500/370.png,Soccer,EPL
+371,West Ham United,WHU,West Ham United,https://a.espncdn.com/i/teamlogos/soccer/500/371.png,Soccer,EPL
+373,Ipswich Town,IPS,Ipswich Town,https://a.espncdn.com/i/teamlogos/soccer/500/373.png,Soccer,EPL
+375,Leicester City,LEI,Leicester City,https://a.espncdn.com/i/teamlogos/soccer/500/375.png,Soccer,EPL
+376,Southampton,SOU,Southampton,https://a.espncdn.com/i/teamlogos/soccer/500/376.png,Soccer,EPL
+380,Wolverhampton Wanderers,WOL,Wolverhampton Wanderers,https://a.espncdn.com/i/teamlogos/soccer/500/380.png,Soccer,EPL
+382,Manchester City,MNC,Manchester City,https://a.espncdn.com/i/teamlogos/soccer/500/382.png,Soccer,EPL
+384,Crystal Palace,CRY,Crystal Palace,https://a.espncdn.com/i/teamlogos/soccer/500/384.png,Soccer,EPL
+393,Nottingham Forest,NFO,Nottingham Forest,https://a.espncdn.com/i/teamlogos/soccer/500/393.png,Soccer,EPL
+182,Chicago Fire FC,CHI,Chicago Fire FC,https://a.espncdn.com/i/teamlogos/soccer/500/182.png,Soccer,MLS
+183,Columbus Crew,CLB,Columbus Crew,https://a.espncdn.com/i/teamlogos/soccer/500/183.png,Soccer,MLS
+184,Colorado Rapids,COL,Colorado Rapids,https://a.espncdn.com/i/teamlogos/soccer/500/184.png,Soccer,MLS
+185,FC Dallas,DAL,FC Dallas,https://a.espncdn.com/i/teamlogos/soccer/500/185.png,Soccer,MLS
+186,Sporting Kansas City,SKC,Sporting Kansas City,https://a.espncdn.com/i/teamlogos/soccer/500/186.png,Soccer,MLS
+187,LA Galaxy,LA,LA Galaxy,https://a.espncdn.com/i/teamlogos/soccer/500/187.png,Soccer,MLS
+189,New England Revolution,NE,New England Revolution,https://a.espncdn.com/i/teamlogos/soccer/500/189.png,Soccer,MLS
+190,New York Red Bulls,NY,New York Red Bulls,https://a.espncdn.com/i/teamlogos/soccer/500/190.png,Soccer,MLS
+191,San Jose Earthquakes,SJ,San Jose Earthquakes,https://a.espncdn.com/i/teamlogos/soccer/500/191.png,Soccer,MLS
+193,D.C. United,DC,D.C. United,https://a.espncdn.com/i/teamlogos/soccer/500/193.png,Soccer,MLS
+4771,Real Salt Lake,RSL,Real Salt Lake,https://a.espncdn.com/i/teamlogos/soccer/500/4771.png,Soccer,MLS
+6077,Houston Dynamo FC,HOU,Houston Dynamo FC,https://a.espncdn.com/i/teamlogos/soccer/500/6077.png,Soccer,MLS
+7318,Toronto FC,TOR,Toronto FC,https://a.espncdn.com/i/teamlogos/soccer/500/7318.png,Soccer,MLS
+9720,CF Montréal,MTL,CF Montréal,https://a.espncdn.com/i/teamlogos/soccer/500/9720.png,Soccer,MLS
+9723,Portland Timbers,POR,Portland Timbers,https://a.espncdn.com/i/teamlogos/soccer/500/9723.png,Soccer,MLS
+9726,Seattle Sounders FC,SEA,Seattle Sounders FC,https://a.espncdn.com/i/teamlogos/soccer/500/9726.png,Soccer,MLS
+9727,Vancouver Whitecaps,VAN,Vancouver Whitecaps,https://a.espncdn.com/i/teamlogos/soccer/500/9727.png,Soccer,MLS
+10739,Philadelphia Union,PHI,Philadelphia Union,https://a.espncdn.com/i/teamlogos/soccer/500/10739.png,Soccer,MLS
+12011,Orlando City SC,ORL,Orlando City SC,https://a.espncdn.com/i/teamlogos/soccer/500/12011.png,Soccer,MLS
+17362,Minnesota United FC,MIN,Minnesota United FC,https://a.espncdn.com/i/teamlogos/soccer/500/17362.png,Soccer,MLS
+17606,New York City FC,NYC,New York City FC,https://a.espncdn.com/i/teamlogos/soccer/500/17606.png,Soccer,MLS
+18267,FC Cincinnati,CIN,FC Cincinnati,https://a.espncdn.com/i/teamlogos/soccer/500/18267.png,Soccer,MLS
+18418,Atlanta United FC,ATL,Atlanta United FC,https://a.espncdn.com/i/teamlogos/soccer/500/18418.png,Soccer,MLS
+18966,LAFC,LAFC,LAFC,https://a.espncdn.com/i/teamlogos/soccer/500/18966.png,Soccer,MLS
+18986,Nashville SC,NSH,Nashville SC,https://a.espncdn.com/i/teamlogos/soccer/500/18986.png,Soccer,MLS
+20232,Inter Miami CF,MIA,Inter Miami CF,https://a.espncdn.com/i/teamlogos/soccer/500/20232.png,Soccer,MLS
+20906,Austin FC,ATX,Austin FC,https://a.espncdn.com/i/teamlogos/soccer/500/20906.png,Soccer,MLS
+21300,Charlotte FC,CLT,Charlotte FC,https://a.espncdn.com/i/teamlogos/soccer/500/21300.png,Soccer,MLS
+21812,St. Louis CITY SC,STL,St. Louis CITY SC,https://a.espncdn.com/i/teamlogos/soccer/500/21812.png,Soccer,MLS
+2,Tigers,AUB,Auburn,https://a.espncdn.com/i/teamlogos/ncaa/500/2.png,Unknown,Unknown
+5,Blazers,UAB,UAB,https://a.espncdn.com/i/teamlogos/ncaa/500/5.png,Unknown,Unknown
+6,Jaguars,USA,South Alabama,https://a.espncdn.com/i/teamlogos/ncaa/500/6.png,Unknown,Unknown
+8,Razorbacks,ARK,Arkansas,https://a.espncdn.com/i/teamlogos/ncaa/500/8.png,Unknown,Unknown
+9,Sun Devils,ASU,Arizona State,https://a.espncdn.com/i/teamlogos/ncaa/500/9.png,Unknown,Unknown
+12,Wildcats,ARIZ,Arizona,https://a.espncdn.com/i/teamlogos/ncaa/500/12.png,Unknown,Unknown
+13,Mustangs,CP,Cal Poly,https://a.espncdn.com/i/teamlogos/ncaa/500/13.png,Unknown,Unknown
+16,Hornets,SAC,Sacramento State,https://a.espncdn.com/i/teamlogos/ncaa/500/16.png,Unknown,Unknown
+21,Aztecs,SDSU,San Diego State,https://a.espncdn.com/i/teamlogos/ncaa/500/21.png,Unknown,Unknown
+23,Spartans,SJSU,San José State,https://a.espncdn.com/i/teamlogos/ncaa/500/23.png,Unknown,Unknown
+24,Cardinal,STAN,Stanford,https://a.espncdn.com/i/teamlogos/ncaa/500/24.png,Unknown,Unknown
+25,Golden Bears,CAL,California,https://a.espncdn.com/i/teamlogos/ncaa/500/25.png,Unknown,Unknown
+26,Bruins,UCLA,UCLA,https://a.espncdn.com/i/teamlogos/ncaa/500/26.png,Unknown,Unknown
+27,Highlanders,UCR,UC Riverside,https://a.espncdn.com/i/teamlogos/ncaa/500/27.png,Unknown,Unknown
+28,Tritons,UCSD,UC San Diego,https://a.espncdn.com/i/teamlogos/ncaa/500/28.png,Unknown,Unknown
+30,Trojans,USC,USC,https://a.espncdn.com/i/teamlogos/ncaa/500/30.png,Unknown,Unknown
+36,Rams,CSU,Colorado State,https://a.espncdn.com/i/teamlogos/ncaa/500/36.png,Unknown,Unknown
+38,Buffaloes,COLO,Colorado,https://a.espncdn.com/i/teamlogos/ncaa/500/38.png,Unknown,Unknown
+41,Huskies,CONN,UConn,https://a.espncdn.com/i/teamlogos/ncaa/500/41.png,Unknown,Unknown
+43,Bulldogs,YALE,Yale,https://a.espncdn.com/i/teamlogos/ncaa/500/43.png,Unknown,Unknown
+44,Eagles,AMER,American University,https://a.espncdn.com/i/teamlogos/ncaa/500/44.png,Unknown,Unknown
+45,Revolutionaries,GW,George Washington,https://a.espncdn.com/i/teamlogos/ncaa/500/45.png,Unknown,Unknown
+46,Hoyas,GTWN,Georgetown,https://a.espncdn.com/i/teamlogos/ncaa/500/46.png,Unknown,Unknown
+47,Bison,HOW,Howard,https://a.espncdn.com/i/teamlogos/ncaa/500/47.png,Unknown,Unknown
+48,Blue Hens,DEL,Delaware,https://a.espncdn.com/i/teamlogos/ncaa/500/48.png,Unknown,Unknown
+50,Rattlers,FAMU,Florida A&M,https://a.espncdn.com/i/teamlogos/ncaa/500/50.png,Unknown,Unknown
+52,Seminoles,FSU,Florida State,https://a.espncdn.com/i/teamlogos/ncaa/500/52.png,Unknown,Unknown
+55,Gamecocks,JVST,Jacksonville State,https://a.espncdn.com/i/teamlogos/ncaa/500/55.png,Unknown,Unknown
+56,Hatters,STET,Stetson,https://a.espncdn.com/i/teamlogos/ncaa/500/56.png,Unknown,Unknown
+57,Gators,FLA,Florida,https://a.espncdn.com/i/teamlogos/ncaa/500/57.png,Unknown,Unknown
+58,Bulls,USF,South Florida,https://a.espncdn.com/i/teamlogos/ncaa/500/58.png,Unknown,Unknown
+59,Yellow Jackets,GT,Georgia Tech,https://a.espncdn.com/i/teamlogos/ncaa/500/59.png,Unknown,Unknown
+61,Lady Bulldogs,UGA,Georgia,https://a.espncdn.com/i/teamlogos/ncaa/500/61.png,Unknown,Unknown
+62,Rainbow Wahine,HAW,Hawai'i,https://a.espncdn.com/i/teamlogos/ncaa/500/62.png,Unknown,Unknown
+66,Cyclones,ISU,Iowa State,https://a.espncdn.com/i/teamlogos/ncaa/500/66.png,Unknown,Unknown
+68,Broncos,BOIS,Boise State,https://a.espncdn.com/i/teamlogos/ncaa/500/68.png,Unknown,Unknown
+70,Vandals,IDHO,Idaho,https://a.espncdn.com/i/teamlogos/ncaa/500/70.png,Unknown,Unknown
+71,Braves,BRAD,Bradley,https://a.espncdn.com/i/teamlogos/ncaa/500/71.png,Unknown,Unknown
+77,Wildcats,NU,Northwestern,https://a.espncdn.com/i/teamlogos/ncaa/500/77.png,Unknown,Unknown
+79,Salukis,SIU,Southern Illinois,https://a.espncdn.com/i/teamlogos/ncaa/500/79.png,Unknown,Unknown
+82,Flames,UIC,UIC,https://a.espncdn.com/i/teamlogos/ncaa/500/82.png,Unknown,Unknown
+84,Hoosiers,IU,Indiana,https://a.espncdn.com/i/teamlogos/ncaa/500/84.png,Unknown,Unknown
+85,Jaguars,IUIN,IU Indianapolis,https://a.espncdn.com/i/teamlogos/ncaa/500/85.png,Unknown,Unknown
+87,Fighting Irish,ND,Notre Dame,https://a.espncdn.com/i/teamlogos/ncaa/500/87.png,Unknown,Unknown
+88,Screaming Eagles,USI,Southern Indiana,https://a.espncdn.com/i/teamlogos/ncaa/500/88.png,Unknown,Unknown
+91,Knights,BELL,Bellarmine,https://a.espncdn.com/i/teamlogos/ncaa/500/91.png,Unknown,Unknown
+93,Racers,MUR,Murray State,https://a.espncdn.com/i/teamlogos/ncaa/500/93.png,Unknown,Unknown
+94,Norse,NKU,Northern Kentucky,https://a.espncdn.com/i/teamlogos/ncaa/500/94.png,Unknown,Unknown
+96,Wildcats,UK,Kentucky,https://a.espncdn.com/i/teamlogos/ncaa/500/96.png,Unknown,Unknown
+97,Cardinals,LOU,Louisville,https://a.espncdn.com/i/teamlogos/ncaa/500/97.png,Unknown,Unknown
+98,Hilltoppers,WKU,Western Kentucky,https://a.espncdn.com/i/teamlogos/ncaa/500/98.png,Unknown,Unknown
